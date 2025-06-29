@@ -36,14 +36,3 @@ git push origin "branch name"-> Local to remote
 git push --set-upstream origin "branch name"-> New branch code add/edit
 
 Git install through linux
---------------------------
-crete on ec2 instance-Connect through putty
-yum install -y git
-git clone "url"
-(it will ask U-id and password)
-set remote url------
-git hub->profile settings->dev settings->Personal access token->Generate token-> give name -> expire-> copy token
-git remote set-url origin https://"Paste token"github.com/pavananingi/"reponame".git
-git push -u origin master
-git push origin master
-
