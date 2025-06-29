@@ -1,0 +1,17 @@
+IGit:
+-It is a Distributed Vesion control system
+-Source code manage control tool
+-Developed by microsoft
+
+git hub(Central/remote)
+git bash (local)
+
+there are 3 stages in local
+1-Working area
+2-Staging area
+3-Local repository
+
+Configuration:
+--------------
+git config --global user.name "name"
+git config --global user.mail "mail
